@@ -1,3 +1,8 @@
+> **foxnaim** · Адаптивное выдвижное меню навигации на CSS-трансформациях
+>
+> Готовая основа под клиентский проект. Стек: HTML.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Pushy
 
 Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions. This project was inspired by the off-canvas navigation menu seen on [Medium](https://medium.com/).
